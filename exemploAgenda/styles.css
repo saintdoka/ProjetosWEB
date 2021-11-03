@@ -1,0 +1,33 @@
+*{
+    font-size: 18px;
+}
+
+form{
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    margin-top: 50px;
+    margin-right: 20px;
+
+}
+
+.formulario{
+    width: 50vw;
+    height: 400px;
+    margin-left: 25vw;
+    margin-top: 10vh;
+    border-radius: 5px;
+    border: red solid 5px;
+    align-content: space-between;
+}
+
+.textbox{
+    width: 100%;
+}
+
+.content{
+    padding-left: 10%;
+    padding-right: 10%;
+}

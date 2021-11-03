@@ -1,0 +1,26 @@
+*{
+    background-color: lightgoldenrodyellow;
+}
+
+ul li{
+    display: block;
+    padding: 10px 15px;
+    list-style: none;
+    text-decoration: none;
+    background-color: navy;
+    color: white;
+    font-family: monospace;
+    font-size: 2em;
+    border-radius: 20px;
+    width: 20vw;
+    margin-top: 10px;
+    transition: 0.3s linear;
+}
+
+ul li:hover{
+    background-color: cyan;
+    color: navy;
+    cursor: pointer;
+    padding-left: 20px;
+
+}
